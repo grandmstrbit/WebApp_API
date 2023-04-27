@@ -1,9 +1,6 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using Microsoft.EntityFrameworkCore;
+﻿using APILibrary.Models;
 using Microsoft.AspNetCore.Mvc;
-using WebAPIApp.Models;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebAPIApp.Controllers
 {
